@@ -1,0 +1,23 @@
+{
+  "name": "hostmaster",
+  "version": "1.0.0",
+  "description": "一个管理主机的平台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonny0812/hostMaster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonny0812/hostMaster/issues"
+  },
+  "homepage": "https://github.com/tonny0812/hostMaster#readme",
+  "dependencies": {
+    "express": "^4.15.0",
+    "nodemiral": "^1.1.1"
+  }
+}
