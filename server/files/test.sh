@@ -1,3 +1,3 @@
 #!/bin/bash
-
-uname -a
+pwd
+mkdir start
